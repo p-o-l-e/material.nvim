@@ -169,7 +169,7 @@ elseif vim.g.material_style == "deep ocean" then
 else vim.g.material_style = "oceanic"
     -- Oceanic theme style
 
-    colors.editor.bg           = "#25363B"
+    colors.editor.bg           = "#263238"
     colors.editor.bg_alt       = "#1C2C30"
     colors.editor.fg           = "#B0BEC5"
     colors.editor.fg_dark      = "#7C9EAD"
