@@ -12,7 +12,7 @@ M.load = function()
         TelescopePromptBorder   = { fg = e.border, bg = e.bg },
         TelescopeResultsBorder  = { link = "TelescopePromptBorder" },
         TelescopePreviewBorder  = { link = "TelescopePromptBorder" },
-        TelescopePromptTitle   = { fg = e.disabled, bg = b.floating_windows },
+        TelescopePromptTitle   = { fg = e.disabled, bg = e.bg },
         TelescopeResultsTitle  = { link = "TelescopePromptTitle" },
         TelescopePreviewTitle  = { link = "TelescopePromptTitle" },
         TelescopePreviewDirectory = { fg = e.fg_dark },
